@@ -1,4 +1,4 @@
-#백준 2581 소수찾기
+#백준 2581번 소수찾기 
 import math
 
 def primenumber(x):
